@@ -1,6 +1,5 @@
 ## Hi there 👋
 My name is Raul and I'm a CS student interested in learning new things!🔥
-- 🔨 I’m currently learning and building Angular projects
 <!--
 **RaulChiciudean/raulchiciudean** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
